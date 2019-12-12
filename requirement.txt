@@ -1,0 +1,15 @@
+jupyter
+textblob
+numpy
+pandas
+matplotlib
+newspaper3k
+wordcloud
+tensorflow
+tetxblob
+adjusttext
+tensorflow_hub
+seaborn
+nltk
+sklearn
+gensim
